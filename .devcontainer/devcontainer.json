@@ -1,5 +1,5 @@
 {
-    "name": "ekf-slam",
+    "name": "particle-filter",
     "dockerFile": "../docker/Dockerfile",
     "customizations": {
         "vscode": {

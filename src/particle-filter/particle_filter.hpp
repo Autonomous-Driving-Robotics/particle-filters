@@ -1,6 +1,9 @@
 #ifndef PARTICLE_FILTER_HPP
 #define PARTICLE_FILTER_HPP
 
+namespace particle_filter
+{
+
 template <typename T>
 class ParticleFilter
 {
@@ -9,5 +12,7 @@ class ParticleFilter
   public:
     ParticleFilter();
 };
+
+}  // namespace particle_filter
 
 #endif
